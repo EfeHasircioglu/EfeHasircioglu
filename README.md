@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EfeHasircioglu
-- 👀 I’m interested in Web Development & Network Engineering
-- 🌱 I’m currently learning Python, Linux
+- 👀 I’m interested in software development and system management
+- 🌱 I’m currently learning Python and Java
 - 🏫 Currently studying at Hacettepe University
 - 📫 How to reach me: through e-mail
 
