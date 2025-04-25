@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EfeHasircioglu
-- 👀 I’m interested in software development and system management
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in web developmemt
+- 🌱 I’m currently learning JS and React.js
 - 🏫 Currently studying at Hacettepe University
-- 📫 How to reach me: through e-mail
+- 📫 You can reach me through e-mail which you can find on my website
 
 <!---
 EfeHasircioglu/EfeHasircioglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
