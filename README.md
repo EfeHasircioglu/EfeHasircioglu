@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EfeHasircioglu
-- 👀 I’m interested in web developmemt
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JS and React.js
 - 🏫 Currently studying at Hacettepe University
 - 📫 You can reach me through e-mail which you can find on my website
